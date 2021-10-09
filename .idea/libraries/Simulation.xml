@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Simulation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assignment_2/out/production/Assignment_2/Simulation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
